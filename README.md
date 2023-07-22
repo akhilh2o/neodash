@@ -1,5 +1,5 @@
 
-# Introduction to Adash
+# Introduction to Neodash
 
 **Neodash** is a admin panel package made for laravel on top of *Laravel Breeze*. It is a very simple setup for a quick start, with a separate admin panel having user, roles & permissions,  posts, pages, faqs and testimonials management. This package uses Bootstrap 4.x. 
 
