@@ -1,0 +1,35 @@
+{
+    "name": "Akhilesh/newdash",
+    "keywords": ["laravel", "breeze", "admin panel", "panel", "dashboard","newdash","admin"],
+    "description": "neopanel is Simple admin panel starter kit",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Akhilesh Gupta",
+            "email": "d.akhil.gupta@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/breeze": "^1.6",
+        "intervention/image": "^2.7",
+        "takshak/alertt": "^1.0",
+        "takshak/imager": "^1.0"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Akhilesh\\Neodash\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Akhilesh\\Neodash\\Providers\\AdashServiceProvider"
+            ]
+        }
+    }
+}
