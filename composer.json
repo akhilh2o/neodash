@@ -1,6 +1,6 @@
 {
-    "name": "akhilesh/newdash",
-    "keywords": ["laravel", "breeze", "admin panel", "panel", "dashboard","newdash","admin"],
+    "name": "akhilesh/neodash",
+    "keywords": ["laravel", "breeze", "admin panel", "panel", "dashboard","neodash","admin"],
     "description": "neopanel is Simple admin panel starter kit",
     "license": "MIT",
     "minimum-stability": "dev",
