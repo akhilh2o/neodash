@@ -5,7 +5,7 @@ namespace Akhilesh\Neodash\Providers;
 use Illuminate\Support\ServiceProvider;
 use Akhilesh\Neodash\Console\InstallCommand;
 
-class AdashServiceProvider extends ServiceProvider
+class NeodashServiceProvider extends ServiceProvider
 {
     public $baseStubs = __DIR__ . '/../../stubs/';
 

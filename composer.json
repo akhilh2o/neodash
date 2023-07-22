@@ -1,5 +1,5 @@
 {
-    "name": "Akhilesh/newdash",
+    "name": "akhilesh/newdash",
     "keywords": ["laravel", "breeze", "admin panel", "panel", "dashboard","newdash","admin"],
     "description": "neopanel is Simple admin panel starter kit",
     "license": "MIT",
@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Akhilesh\\Neodash\\Providers\\AdashServiceProvider"
+                "Akhilesh\\Neodash\\Providers\\NeodashServiceProvider"
             ]
         }
     }
