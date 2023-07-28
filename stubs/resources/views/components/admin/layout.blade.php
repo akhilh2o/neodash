@@ -25,9 +25,9 @@
         <!-- Begin page -->
         <div id="layout-wrapper">
 
-            <x-adash::admin.alert />
-            <x-adash::admin.header />
-            <x-adash::admin.sidebar />
+            <x-neodash::admin.alert />
+            <x-neodash::admin.header />
+            <x-neodash::admin.sidebar />
             <!-- Left Sidebar End -->
 
             <!-- ============================================================== -->
@@ -52,7 +52,7 @@
                                      - Crafted with 
                                     <i class="mdi mdi-heart text-danger"></i> 
                                     by 
-                                    <a href="#" target="_blank" class="text-success font-weight-bold">
+                                    <a href="https://github.com/akhilh2o/" target="_blank" class="text-success font-weight-bold">
                                         Akhilesh Gupta
                                     </a>.
                                 </span>

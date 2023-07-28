@@ -37,12 +37,11 @@ return [
     ],
 
     'site'    =>    [
-        'name'    =>    'Adash',
-        'short_name'    =>    'AD',
-
+        'name'          =>    'Neodash',
+        'short_name'    =>    'NEOD',
         'logo_full'     =>    '',
-        'logo_short'     =>    '',
-        'favicon'         =>    '',
+        'logo_short'    =>    '',
+        'favicon'       =>    '',
     ],
 
     'primary_mail' => env('MAIL_PRIMARY', 'hello@example.com'),

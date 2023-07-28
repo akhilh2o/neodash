@@ -38,12 +38,12 @@ class PermissionSeeder extends Seeder
         return  [
             [
                 'name'        =>    'queries_access',
-                'title'        =>    'Queries Management',
+                'title'       =>    'Queries Management',
                 'children'    =>    [
-                    ['name'    => 'queries_show', 'title' =>    'Queries Create'],
-                    ['name'    => 'queries_create', 'title' =>    'Queries Create'],
-                    ['name'    => 'queries_update', 'title' =>    'Queries Update'],
-                    ['name'    => 'queries_delete', 'title' =>    'Queries Delete'],
+                    ['name'   => 'queries_show',   'title' =>  'Queries Create'],
+                    ['name'   => 'queries_create', 'title' =>  'Queries Create'],
+                    ['name'   => 'queries_update', 'title' =>  'Queries Update'],
+                    ['name'   => 'queries_delete', 'title' =>  'Queries Delete'],
                 ]
             ],
 

@@ -4,7 +4,7 @@
         <div id="sidebar-menu">
             <!-- Left Menu Start -->
             <ul class="metismenu list-unstyled" id="side-menu">
-                {{-- adash-dashboard --}}
+                {{-- neodash-dashboard --}}
                 <li class="menu-title">Admin Main</li>
                 <li>
                     <a href="{{ route('admin.dashboard') }}" class="waves-effect">
@@ -12,7 +12,7 @@
                         <span>Dashboard</span>
                     </a>
                 </li>
-                {{-- end adash-dashboard --}}
+                {{-- end neodash-dashboard --}}
 
                 @can('queries_access')
                 <li>
